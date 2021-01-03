@@ -1,0 +1,1 @@
+Codigo sobre um fomulário basico usando PHP e HTML, fazendo validacoes basicas no PHP com INPUT_VALIDADE,INPUT_SANITIZE aliados ao <input type=""> no HTML
